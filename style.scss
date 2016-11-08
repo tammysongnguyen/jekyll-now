@@ -151,14 +151,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-}
-
-#backgroundimg {
-	background-image: url{'{{ site.baseurl }}/images/octologo.png');
-	background-repeat: no-repeat;
-}		
+}	
 
 .masthead {
+	background-image: url{'{{ site.baseurl }}/images/octologo.png');
+	background-repeat: no-repeat;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
