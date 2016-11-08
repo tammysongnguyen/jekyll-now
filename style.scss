@@ -19,8 +19,10 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background-image: url('images/octologo.png');
+	background-repeat: no-repeat;
+  	font: 18px/1.4 $helvetica;
+  	color: $darkGray;
 }
 
 .container {
@@ -152,11 +154,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-}
-
-#backgroundimg {
-	background-image: url("images/octologo.png");
-	background-repeat: no-repeat;
 }
 
 .masthead {
