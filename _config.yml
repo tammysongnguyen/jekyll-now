@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-background: octologo.png
-
 # Name of your site (displayed in the header)
 name: Tammy Nguyen
 
