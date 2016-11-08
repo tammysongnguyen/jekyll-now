@@ -154,7 +154,7 @@ img {
 }
 
 #backgroundimg {
-	background-image: ({{ site.baseurl }}/images/octologo.png);
+	background: url{"../images/octologo.png);
 	background-repeat: no-repeat;
 }		
 
