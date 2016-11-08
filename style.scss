@@ -154,8 +154,8 @@ img {
 }	
 
 .masthead {
-	background-image: url{'{{ site.baseurl }}/images/octologo.png');
-	background-repeat: no-repeat;
+	/* background-image: url{'{{ site.baseurl }}/images/octologo.png');
+	background-repeat: no-repeat; */
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
