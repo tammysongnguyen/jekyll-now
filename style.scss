@@ -154,6 +154,11 @@ img {
   margin-bottom: 50px;
 }
 
+#backgroundimg {
+	background-image: url('images/octologo.png');
+	background-repeat: no repeat;
+}
+
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
