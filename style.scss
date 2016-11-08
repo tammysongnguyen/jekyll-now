@@ -18,9 +18,6 @@ html {
 }
 
 body {
-	background: $white;
-	background-image: url('images/octologo.png');
-	background-repeat: no-repeat;
   	font: 18px/1.4 $helvetica;
   	color: $darkGray;
 }
@@ -155,6 +152,11 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
 }
+
+#backgroundimg {
+	background-image: url('{{ site.baseurl }}/img/octologo.png');
+	background-repeat: no-repeat;
+}		
 
 .masthead {
   padding: 20px 0;
